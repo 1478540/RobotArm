@@ -80,7 +80,7 @@ temp.txt 是代码自动生成的，用来调试时检查AI回复的原始文本
 
 audio.wav 和 new_audio.wav 则分别时语音合成的初始音频文件以及格式转换音频文件
 
-**如果你只对语音识别感兴趣，你可以只关注 BaiduClient.py 以及 ASR_ARM.py（该文件有一处引用了ArmOperator文件，所以不能独立运行）**
+**如果你只对语音识别感兴趣，你可以只关注 BaiduClient.py 以及 ASR_ARM.py（该文件有一处引用了ArmOperator.py，所以不能独立运行，若想独立运行，请把引用处替换）**
 
 **如果你只对语音合成感兴趣，你可以只关注 BaiduClient.py 以及 TTS.py</u>**
 
