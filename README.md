@@ -13,6 +13,7 @@
 
 PS：AI模式接入的是百度文心一言的千帆模式，操作能力非常不成熟，没有实际应用价值，但就展示效果和创意而言还说得过去
 
+视频展示请见b站链接：https://www.bilibili.com/video/BV1HjVxeNETX/?vd_source=ed3f2c04c40cfc2a1c4f1c34717b21df
 
 # 外设连接
 
