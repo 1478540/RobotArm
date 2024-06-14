@@ -64,7 +64,7 @@ PS: 接口1和2新用户有180天免费权益，接口3已经开放全面免费(
 	My SpeechRecognition library version is <3.10.4>.
 	My PyAudio library version is < 0.2.14>
 	My baidu-aip versiton is <4.16.13>
-    My ffmpeg-python versiton is <0.2.0>
+    	My ffmpeg-python versiton is <0.2.0>
 
 # 源文件简介
 
