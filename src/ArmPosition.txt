@@ -1,0 +1,6 @@
+{
+    "l2rAngle": 85,
+    "h2lAngle": 160,
+    "f2bAngle": 80,
+    "o2cAngle": 160
+}
