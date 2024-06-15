@@ -27,7 +27,7 @@ PS：AI模式接入的是百度文心一言的千帆模型，操作能力非常�
 
     【淘宝】https://m.tb.cn/h.g4BvEJQmeIumIYR?tk=xVhQWyULI5g CZ0001 「Arduino UNO R3亚克力机械臂 机器人机械手臂舵机电子实验DIY套件」
 
-    4个SG90舵机分别连接树莓派GPIO引脚（BCM编码）如下：
+    4个SG90舵机(180度模拟舵机)分别连接树莓派GPIO引脚（BCM编码）如下：
    
     电源全部接5V，地线接地
    
